@@ -265,7 +265,7 @@ When run by ``PopenSpawn``, they may behave differently.
 .. seealso::
 
    `wexpect <https://pypi.org/project/wexpect/>`__ is a maintained
-   alternative for Windows. It supports pyton3.x
+   alternative for Windows.
    
    `winpexpect <https://pypi.python.org/pypi/winpexpect>`__ is unmaintained
-   pexpect-like module, which work with a hidden console.
+   pexpect-like module, which works with a hidden console.
